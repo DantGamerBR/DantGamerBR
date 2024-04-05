@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil, sou DantGamerBR!
+## Bem-vindo(a) ao meu perfil, sou Danton!
 
  <div>
    <a href="https://github.com/DantGamerBR">
